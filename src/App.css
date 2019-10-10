@@ -1,3 +1,7 @@
 canvas {
   position: absolute;
 }
+
+.faces canvas {
+  position: relative;
+}
